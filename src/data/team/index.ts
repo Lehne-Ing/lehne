@@ -42,7 +42,7 @@ export const people = [
   { name: "F. Häußler", image: FHäußler },
   { name: "S. Voßschulte", image: SVoßschulte },
   { name: "H. Nowak", image: undefined },
-  { name: "H. Nowak", image: undefined },
+  { name: "H. Repschläger", image: undefined },
   { name: "G. Zinßer", image: undefined },
   { name: "J. Herrmann", image: undefined },
   { name: "F. Lorenz", image: undefined },
