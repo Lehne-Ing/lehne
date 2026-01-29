@@ -1,6 +1,5 @@
 import SEikenroth from "./SEikenroth.jpg";
 import ETimmermann from "./ETimmermann.jpg";
-import VKolaska from "./VKolaska.jpg";
 import BRoemmer from "./BRoemmer.jpg";
 import EKaemper from "./EKaemper.jpg";
 import SMannes from "./SMannes.jpg";
@@ -17,7 +16,6 @@ import SVoßschulte from "./SVoßschulte.jpg";
 //import DKieburg from "./DKieburg.jpg";
 //import LPetznik from "./LPetznik.jpg";
 //import HNowak from "./HNowak.jpg";
-//import EBatholome from "./EBartholome.jpg";
 //import FLorenz from "./FLorenz.jpg";
 //import LNibbe from "./LNibbe.jpg";
 //import JKüsel from "./JKüsel.jpg";
@@ -31,7 +29,6 @@ export const people = [
   { name: "B. Römmer", image: BRoemmer },
   { name: "S. Al-Salhi", image: SAlsalhi },
   { name: "E. Timmermann", image: ETimmermann },
-  { name: "V. Kolaska", image: VKolaska },
   { name: "E. Kämper", image: EKaemper },
   { name: "J. Schmidt", image: JSchmidt },
   { name: "S. Mannes", image: SMannes },
