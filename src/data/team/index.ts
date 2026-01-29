@@ -6,7 +6,7 @@ import SMannes from "./SMannes.jpg";
 import APulido from "./APulido.jpg";
 import JSchmidt from "./JSchmidt.jpg";
 import NHettche from "./NHettche2.jpg";
-import GNiemann from "./GNiemann.jpg";
+//import GNiemann from "./GNiemann.jpg";
 //import GZinßer from "./GZinßer.jpg";
 import TOellrich from "./TOellrich2.jpg";
 import SAlsalhi from "./SAlsalhi2.jpg";
@@ -25,7 +25,7 @@ import SVoßschulte from "./SVoßschulte.jpg";
 
 export const people = [
   { name: "S. Eikenroth", image: SEikenroth },
-  { name: "G. Niemann-Hiessl", image: GNiemann },
+  //{ name: "G. Niemann-Hiessl", image: GNiemann },
   { name: "B. Römmer", image: BRoemmer },
   { name: "S. Al-Salhi", image: SAlsalhi },
   { name: "E. Timmermann", image: ETimmermann },
