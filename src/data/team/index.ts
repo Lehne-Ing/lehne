@@ -47,7 +47,7 @@ export const people = [
   { name: "F. Lorenz", image: Lor },
   { name: "A. Frank", image: Fra },
   { name: "K. Hübner", image: Hüb },
-  { name: "P. Calaminta", image: Cal },
+  { name: "P. Calamita", image: Cal },
   { name: "J. Küsel", image: Küs },
   { name: "F. Schulz", image: Sul },
   { name: "D. Kieburg", image: undefined },
