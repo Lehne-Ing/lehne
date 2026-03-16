@@ -1,54 +1,59 @@
-import SEikenroth from "./SEikenroth.jpg";
-import ETimmermann from "./ETimmermann.jpg";
-import BRoemmer from "./BRoemmer.jpg";
-import EKaemper from "./EKaemper.jpg";
-import SMannes from "./SMannes.jpg";
-import APulido from "./APulido.jpg";
-import JSchmidt from "./JSchmidt.jpg";
-import NHettche from "./NHettche2.jpg";
-//import GNiemann from "./GNiemann.jpg";
-//import GZinßer from "./GZinßer.jpg";
-import TOellrich from "./TOellrich2.jpg";
-import SAlsalhi from "./SAlsalhi2.jpg";
-import JJoritz from "./JJoritz.jpg";
-import FHäußler from "./FHäußler.jpg";
-import SVoßschulte from "./SVoßschulte.jpg";
-//import DKieburg from "./DKieburg.jpg";
-//import LPetznik from "./LPetznik.jpg";
-//import HNowak from "./HNowak.jpg";
-//import FLorenz from "./FLorenz.jpg";
-//import LNibbe from "./LNibbe.jpg";
-//import JKüsel from "./JKüsel.jpg";
-//import HRepschläger from "./HRepschläger.jpg";
+import Eik from "./Eik.jpg";
+import Tim from "./Tim.jpg";
+import Rö from "./Roe.jpg";
+import Kam from "./Kam.jpg";
+import Man from "./Man.jpg";
+import Pul from "./Pul.jpg";
+import Smi from "./Smi.jpg";
+import Het from "./Het.jpg";
+import Zin from "./Zin.jpg";
+import Oel from "./Oel.jpg";
+import Sal from "./Sal.jpg";
+import Jor from "./Jor.jpg";
+import Hae from "./Hae.jpg";
+import Vos from "./Vos.jpg";
+import Cal from "./Cal.jpg";
+import Now from "./Now.jpg";
+import Lor from "./Lor.jpg";
+import Rep from "./Rep.jpg";
+import Küs from "./Küs.jpg";
+import Sul from "./Sul.jpg";
+import Fra from "./Fra.jpg";
+import Hüb from "./Hüb.jpg";
+//import LNibbe from "./Nib.jpg";
+//import DKieburg from "./Kie.jpg";
+//import LPetznik from "./Pet.jpg";
+
 
 
 
 export const people = [
-  { name: "S. Eikenroth", image: SEikenroth },
-  //{ name: "G. Niemann-Hiessl", image: GNiemann },
-  { name: "B. Römmer", image: BRoemmer },
-  { name: "S. Al-Salhi", image: SAlsalhi },
-  { name: "E. Timmermann", image: ETimmermann },
-  { name: "E. Kämper", image: EKaemper },
-  { name: "J. Schmidt", image: JSchmidt },
-  { name: "S. Mannes", image: SMannes },
-  { name: "N. Hettche", image: NHettche },
-  { name: "T. Oellrich", image: TOellrich },
-  { name: "A. Pulido", image: APulido },
-  { name: "J. Joritz", image: JJoritz },
-  { name: "F. Häußler", image: FHäußler },
-  { name: "S. Voßschulte", image: SVoßschulte },
-  { name: "H. Nowak", image: undefined },
-  { name: "H. Repschläger", image: undefined },
-  { name: "G. Zinßer", image: undefined },
-  { name: "J. Herrmann", image: undefined },
-  { name: "F. Lorenz", image: undefined },
+  { name: "S. Eikenroth", image: Eik },
+  { name: "B. Römmer", image: Rö },
+  { name: "S. Al-Salhi", image: Sal },
+  { name: "E. Timmermann", image: Tim },
+  { name: "E. Kämper", image: Kam },
+  { name: "J. Schmidt", image: Smi },
+  { name: "S. Mannes", image: Man },
+  { name: "N. Hettche", image: Het },
+  { name: "T. Oellrich", image: Oel },
+  { name: "A. Pulido", image: Pul },
+  { name: "J. Joritz", image: Jor },
+  { name: "F. Häußler", image: Hae },
+  { name: "S. Voßschulte", image: Vos },
+  { name: "H. Nowak", image: Now },
+  { name: "H. Repschläger", image: Rep },
+  { name: "G. Zinßer", image: Zin },
+  { name: "F. Lorenz", image: Lor },
+  { name: "A. Frank", image: Fra },
+  { name: "K. Hübner", image: Hüb },
+  { name: "P. Calaminta", image: Cal },
+  { name: "J. Küsel", image: Küs },
+  { name: "F. Schulz", image: Sul },
   { name: "D. Kieburg", image: undefined },
-  { name: "A. Frank", image: undefined },
+  { name: "J. Herrmann", image: undefined },
   { name: "L. Nibbe", image: undefined },
   { name: "L. Petznik", image: undefined },
-  { name: "J. Küsel", image: undefined },
-  { name: "F. Schulz", image: undefined },
   
 
 ];
