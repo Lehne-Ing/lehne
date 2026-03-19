@@ -1,5 +1,5 @@
 ---
-name: "Stefan Paul"
+name: "Georg Zinßer"
 position: "Civil Engineer"
 image: "../zin.jpg"
 sortOrder: 4
