@@ -6,7 +6,6 @@ import Man from "./Man.jpg";
 import Pul from "./Pul.jpg";
 import Smi from "./Smi.jpg";
 import Het from "./Het.jpg";
-import Zin from "./Zin.jpg";
 import Oel from "./Oel.jpg";
 import Sal from "./Sal.jpg";
 import Jor from "./Jor.jpg";
@@ -43,7 +42,6 @@ export const people = [
   { name: "S. Voßschulte", image: Vos },
   { name: "H. Nowak", image: Now },
   { name: "H. Repschläger", image: Rep },
-  { name: "G. Zinßer", image: Zin },
   { name: "F. Lorenz", image: Lor },
   { name: "A. Frank", image: Fra },
   { name: "K. Hübner", image: Hüb },
