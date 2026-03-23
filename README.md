@@ -45,4 +45,4 @@ Wenn Sie versehentlich Änderungen gemacht haben und die Website beschädigt ist
 GitHub Issues sind ein Werkzeug zur Verfolgung von Aufgaben, Fehlern oder Diskussionen im Zusammenhang mit einem Projekt. Sie sollten verwendet werden, um Probleme zu melden, neue Funktionen vorzuschlagen oder allgemeine Diskussionen zu führen, die das Projekt betreffen.
 
 
-## Transfer to https://github.com/Lehne-Ing/lehne 
+## Transfer repo to organization: https://github.com/Lehne-Ing/lehne 
