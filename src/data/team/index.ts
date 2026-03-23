@@ -19,8 +19,9 @@ import Küs from "./Küs.jpg";
 import Sul from "./Sul.jpg";
 import Fra from "./Fra.jpg";
 import Hüb from "./Hüb.jpg";
-//import LNibbe from "./Nib.jpg";
-//import DKieburg from "./Kie.jpg";
+import Nib from "./Nib.jpg";
+import Kie from "./Kie.jpg";
+import Her from "./Her.jpg";
 //import LPetznik from "./Pet.jpg";
 
 
@@ -48,9 +49,9 @@ export const people = [
   { name: "P. Calamita", image: Cal },
   { name: "J. Küsel", image: Küs },
   { name: "F. Schulz", image: Sul },
-  { name: "D. Kieburg", image: undefined },
-  { name: "J. Herrmann", image: undefined },
-  { name: "L. Nibbe", image: undefined },
+  { name: "D. Kieburg", image: Kie },
+  { name: "J. Herrmann", image: Her },
+  { name: "L. Nibbe", image: Nib },
   { name: "L. Petznik", image: undefined },
   
 
