@@ -52,10 +52,13 @@ export const people = [
   { name: "D. Kieburg", image: Kie },
   { name: "J. Herrmann", image: Her },
   { name: "L. Nibbe", image: Nib },
-  { name: "L. Petznik", image: undefined },
   { name: "B. Damrau", image: undefined },
   { name: "S. Meyer", image: undefined },
   { name: "N. Baumgarth", image: undefined },
-  
+  { name: "T. Ostendorf", image: undefined },
+  { name: "A. Martin", image: undefined },
+  { name: "I. Lehnort", image: undefined },
+  { name: "F. Karwin", image: undefined },
+
 
 ];
