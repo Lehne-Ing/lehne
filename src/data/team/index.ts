@@ -22,7 +22,7 @@ import Hüb from "./Hüb.jpg";
 import Nib from "./Nib.jpg";
 import Kie from "./Kie.jpg";
 import Her from "./Her.jpg";
-//import LPetznik from "./Pet.jpg";
+
 
 
 
