@@ -2,7 +2,6 @@ import Eik from "./Eik.jpg";
 import Tim from "./Tim.jpg";
 import Rö from "./Roe.jpg";
 import Kam from "./Kam.jpg";
-import Man from "./Man.jpg";
 import Pul from "./Pul.jpg";
 import Smi from "./Smi.jpg";
 import Het from "./Het.jpg";
@@ -34,7 +33,6 @@ export const people = [
   { name: "E. Timmermann", image: Tim },
   { name: "E. Kämper", image: Kam },
   { name: "J. Schmidt", image: Smi },
-  { name: "S. Mannes", image: Man },
   { name: "N. Hettche", image: Het },
   { name: "T. Oellrich", image: Oel },
   { name: "A. Pulido", image: Pul },
@@ -57,9 +55,12 @@ export const people = [
   { name: "N. Baumgarth", image: undefined },
   { name: "T. Ostendorf", image: undefined },
   { name: "A. Martin", image: undefined },
+  { name: "S. Roumieh", image: undefined },
+  { name: "N. Albers", image: undefined },
   { name: "I. Lehnort", image: undefined },
   { name: "F. Karwin", image: undefined },
   { name: "O. Rehl", image: undefined },
+
 
 
 
