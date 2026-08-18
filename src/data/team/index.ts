@@ -54,8 +54,4 @@ export const people = [
   { name: "I. Lehnort", image: undefined },
   { name: "F. Karwin", image: undefined },
   { name: "O. Rehl", image: undefined },
-
-
-
-
 ];
