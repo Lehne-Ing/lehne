@@ -1,9 +1,6 @@
 import Eik from "./Eik.jpg";
-import Tim from "./Tim.jpg";
-import Rö from "./Roe.jpg";
 import Kam from "./Kam.jpg";
 import Pul from "./Pul.jpg";
-import Smi from "./Smi.jpg";
 import Het from "./Het.jpg";
 import Oel from "./Oel.jpg";
 import Sal from "./Sal.jpg";
@@ -28,28 +25,25 @@ import Her from "./Her.jpg";
 
 export const people = [
   { name: "S. Eikenroth", image: Eik },
-  { name: "B. Römmer", image: Rö },
   { name: "S. Al-Salhi", image: Sal },
-  { name: "E. Timmermann", image: Tim },
   { name: "E. Kämper", image: Kam },
-  { name: "J. Schmidt", image: Smi },
-  { name: "N. Hettche", image: Het },
-  { name: "T. Oellrich", image: Oel },
-  { name: "A. Pulido", image: Pul },
-  { name: "J. Joritz", image: Jor },
-  { name: "F. Häußler", image: Hae },
-  { name: "S. Voßschulte", image: Vos },
   { name: "H. Nowak", image: Now },
+  { name: "N. Hettche", image: Het },
+  { name: "A. Pulido", image: Pul },
+  { name: "T. Oellrich", image: Oel },
+  { name: "S. Voßschulte", image: Vos },
+  { name: "J. Joritz", image: Jor },
+  { name: "K. Hübner", image: Hüb },
+  { name: "F. Häußler", image: Hae },
   { name: "H. Repschläger", image: Rep },
   { name: "F. Lorenz", image: Lor },
-  { name: "A. Frank", image: Fra },
-  { name: "K. Hübner", image: Hüb },
-  { name: "P. Calamita", image: Cal },
-  { name: "J. Küsel", image: Küs },
   { name: "F. Schulz", image: Sul },
+  { name: "A. Frank", image: Fra },
+  { name: "P. Calamita", image: Cal },
   { name: "D. Kieburg", image: Kie },
   { name: "J. Herrmann", image: Her },
   { name: "L. Nibbe", image: Nib },
+  { name: "J. Küsel", image: Küs },
   { name: "B. Damrau", image: undefined },
   { name: "S. Meyer", image: undefined },
   { name: "N. Baumgarth", image: undefined },
